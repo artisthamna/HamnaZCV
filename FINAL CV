@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#128511; Hamna Zahid</title>
+  </head>
+  <style>
+    img{border-radius: 50% ;}
+  </style>
+  <body>
+    <br><br>
+    <img src="pgsme.png" width="200" height="200" border="3" style=border-color:black>
+  <h1>  Hamna Zahid</h1>
+  <h2>Digital Creator</h2>
+  <h3>Student at </h3>
+  <h3>Owner of <a href="https://www.instagram.com/illustrations.random/">
+    @illustrations.random.
+  </a>
+  and
+  <a href="http://www.instagram.com/ai_art.11">
+    @ai_art.11</a>
+  <br>
+Student at <a href="https://paak-grammar-school.business.site/">Paak Grammer School.</a>
+<br>
+Learning web development at <a href="https://irmedia.org/">IR Media.</a>
+</h3>
+    
+  <br>
+  <FONT COLOR="#000000">
+  <hr size="3">
+  <h1>Hobbies</h1>
+  <ol>
+    <li>Painting<ul><li>Sufi Art</li><li>Abstract</li><li>Caligraphy</li></ul></li>
+    <li>Digital<ul><li>Graphic Designing</li><li>Video Editing</li><li>2d Animation</li></ul></li>
+    <li>Reading Books<ul><li>Atomic Habits</li><li>Phantom Tollbooth</li><li>Bleachers</li></ul></li>
+  </ol>
+  <br><br>
+  <ol type="I">
+    <li>Painting<ul><li>Sufi Art</li><li>Abstract</li><li>Caligraphy</li></ul></li>
+    <li>Digital<ul><li>Graphic Designing</li><li>Video Editing</li><li>2d Animation</li></ul></li>
+    <li>Reading Books<ul><li>Atomic Habits</li><li>Phantom Tollbooth</li><li>Bleachers</li></ul></li>
+  </ol>
+  <br><br>
+  <ol type="A">
+    <li>Painting<ul><li>Sufi Art</li><li>Abstract</li><li>Caligraphy</li></ul></li>
+    <li>Digital<ul><li>Graphic Designing</li><li>Video Editing</li><li>2d Animation</li></ul></li>
+    <li>Reading Books<ul><li>Atomic Habits</li><li>Phantom Tollbooth</li><li>Bleachers</li></ul></li>
+  </ol>
+
+ </body>
+</html>
